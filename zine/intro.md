@@ -1,3 +1,4 @@
-﻿# Issue 1 — Introduction
+# Issue 1 — Introduction
 
-Welcome to our time machine. We'll prioritize clarity, consistency, and reader guidance.
+Welcome to our time machine. We'll experiment boldly and draft quickly
+
