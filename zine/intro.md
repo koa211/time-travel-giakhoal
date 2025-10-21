@@ -1,1 +1,1 @@
-﻿git time machine, moving to the past and future.
+﻿git time machine—exploring paradoxes, ethics, and timelines.
