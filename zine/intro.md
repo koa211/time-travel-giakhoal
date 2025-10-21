@@ -1,3 +1,3 @@
-﻿# Issue 1 — Introduction
+# Issue 1 — Introduction
 
-Welcome to our time machine. edit this line from the two branch
+Welcome to our time machine. We'll experiment boldly and draft quickly
