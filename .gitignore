@@ -7,3 +7,4 @@ Thumbs.db
 # Build artifacts
 build/
 target/
+# Ignore temporary logs and caches
